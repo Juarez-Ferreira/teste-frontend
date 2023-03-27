@@ -1,9 +1,6 @@
 ## 💻 Projeto
-O projeto  foi realizado com o React, e o objetivo dele é a criação de um blog
+O projeto  foi desenvolvido com o React, e o objetivo dele é a criação de um blog
 afim de exibir os post e comentários das pessoas que o acessam.
-
-A API que está sendo consumida nesse projeto é a JASONPlaceholder
-
 
 
 ## Pré-requisitos
